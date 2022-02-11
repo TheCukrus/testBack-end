@@ -1,0 +1,23 @@
+#div1 {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+}
+
+#Navbar {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+}
+
+#Login {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+}
+
+#Items {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+}

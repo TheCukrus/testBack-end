@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@babel/cli": "^7.17.0",
+        "@babel/core": "^7.17.2",
+        "@babel/preset-react": "^7.16.7",
+        "live-server": "^1.2.1"
+    },
+    "scripts": {
+        "live_server": "npx live-server ./public",
+        "babel": "npx babel --watch ./src --out-dir ./public --presets @babel/preset-react"
+    }
+}
